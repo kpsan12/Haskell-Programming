@@ -1,0 +1,4 @@
+
+reverseList :: [a] -> [a]
+reverseList [] = [] t (x:xs) = reverseList xs ++ [x]  -- Recursively reverse the rest and append the first element at the end
+

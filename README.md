@@ -1,6 +1,6 @@
-# Haskell Learning 
+# Haskell and Rust Learning 
 
-Welcome to my Haskell learning repository! This project serves as a personal record of my journey as I learn and experiment with the Haskell programming language. The code here represents a collection of exercises, implementations, and notes that I am using to explore the functional programming paradigm and improve my understanding of Haskell.
+Welcome to my Haskell & Rust learning repository! This project serves as a personal record of my journey as I learn and experiment with the Haskell programming language. The code here represents a collection of exercises, implementations, and notes that I am using to explore the functional programming paradigm and improve my understanding of Haskell.
 
 ## Purpose
 
